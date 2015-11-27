@@ -9,6 +9,8 @@ There is also a GUI that can be activated via the app launcher that allows to th
 Release History:
 
 0.1.2
+* test version by Skalou
+
 * reworked the PWBControlBox.mu model.
 * reworked the spheres modeles for the 3D CoM markers and textures.
 * converted the textures to DDS to save RAM in increase the loading time.
